@@ -1,0 +1,282 @@
+.low_left{
+    font-family: 'Poppins', sans-serif;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.price_1{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.price_2{
+    margin-top: 8px;
+}
+
+.lowest{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(243, 217, 100);
+    width: 200%;
+    height: 220px;
+    border-radius: 15px;
+}
+
+.order{
+    background-color: black;
+    color: white;
+    width: 60%;
+    border-radius: 7px;
+    padding-left:10px;
+    padding-top: 5px;
+    margin-top: 15px;
+    height: 30px;
+}
+
+.houseful img{
+    height: 48px;
+    padding-top: 10px;
+    padding-right: 20px;
+}
+
+.date{
+    font-family: 'Poppins', sans-serif;
+    font-size: 10px;
+    font-weight: bold;
+    position: relative;
+    bottom: 10px;
+    left: 7px;
+}
+
+.surf img{
+    height: 90px;
+    position: relative;
+    top: 60px;
+    right: 100px;
+}
+
+/* .aashirvaad img{
+    height: 100px;
+    position: relative;
+    bottom: 28px;
+    right: 60px;
+} */
+
+.tata img{
+    height: 120px;
+    position: relative;
+    bottom: 60px;
+    right: 2px;
+}
+
+.make_up{
+    background-color:rgb(233, 85, 85);
+    width: 200%;
+    height: 220px;
+    border-radius: 15px;
+}
+
+.makeup_1{
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    font-weight: bold;
+    font-size: 22px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.makeup_2{
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+
+.order_2{
+    background-color: white;
+    font-family: 'Poppins', sans-serif;
+    color: black;
+    width: 52%;
+    border-radius: 7px;
+    padding-left:14px;
+    padding-top: 5px;
+    margin-top: 15px;
+    height: 30px;
+    margin-left: 20px;
+}
+
+.make_right img{
+    height: 200px;
+    padding-top: 20px;
+    padding-right: 17px;
+}
+
+.make_up{
+    display: flex;
+    justify-content: space-between;
+}
+
+.electronics{
+    background-color:rgb(111, 62, 159);
+    width: 200%;
+    height: 220px;
+    border-radius: 15px;
+}
+
+.elect_1{
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    font-weight: bold;
+    font-size: 22px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.elect_2{
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+
+.electronics{
+    display: flex;
+    justify-content: space-between;
+}
+
+.elect_right img{
+    height: 80%;
+    width: 130px;
+    padding-top: 45px;
+    padding-right: 30px;
+}
+
+.pharmacy{
+    background-color:rgb(63, 188, 182);
+    width: 200%;
+    height: 220px;
+    border-radius: 15px;
+    display: flex;
+}
+
+.pharm_1{
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    font-weight: bold;
+    font-size: 22px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.pharm_2{
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+
+.eno{
+    height: 130px;
+    padding-top: 94px;
+}
+
+.moov{
+    height: 130px;
+    padding-top: 102px;
+}
+
+.pharm_right{
+    display: flex;
+}
+
+.diaper{
+    background-color:#b5edff;
+    width: 200%;
+    height: 220px;
+    border-radius: 15px;
+    display: flex;
+    font-family: 'Poppins', sans-serif;
+}
+
+.diap_1{
+    font-family: 'Poppins', sans-serif;
+    color: black;
+    font-weight: bold;
+    font-size: 22px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.diap_2{
+    color: black;
+    font-family: 'Poppins', sans-serif;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+
+.diap_right img{
+    height: 150px;
+    padding-top: 70px;
+}
+
+.order_3{
+    background-color: black;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    width: 55%;
+    border-radius: 7px;
+    padding-left:14px;
+    padding-top: 5px;
+    margin-top: 15px;
+    height: 30px;
+    margin-left: 20px;
+}
+
+.pet{
+    background-color:#ffd630;
+    width: 200%;
+    height: 220px;
+    border-radius: 15px;
+    display: flex;
+    font-family: 'Poppins', sans-serif;
+}
+
+.pet_1{
+    font-family: 'Poppins', sans-serif;
+    color: black;
+    font-weight: bold;
+    font-size: 22px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.pet_2{
+    color: black;
+    font-family: 'Poppins', sans-serif;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+
+.pet_right img{
+    height: 100px;
+}
+
+/* .pet_right{
+    position: relative;
+    top: 100px;
+} */
+
+.dog_1 {
+    position: relative;
+    top: 29px;
+}
+
+.pet_right img{
+    height: 190px;
+}
+
+.box-section{
+    margin-top: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
