@@ -1,8 +1,11 @@
 @import url(css/navbar.css);
 @import url(css/paan.css);
 @import url(css/carousel.css);
+@import url(css/items.css);
+@import url(css/cards.css);
 
 .body{
     margin: 0px;
     padding: 0px;
 }
+
