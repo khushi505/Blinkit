@@ -9,3 +9,76 @@
     padding: 0px;
 }
 
+.footer{
+    background-color: rgb(241, 241, 255);
+    height: 320px;
+    margin-top: 55px;
+    margin-left: -8px;
+    margin-right: -8px;
+    margin-bottom: -8px;
+}
+
+.foot_head{
+    font-family: 'Cinzel Decorative', cursive;
+    font-weight: bold;
+    font-size: 50px;
+    color: rgb(54, 54, 54);
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+}
+
+.foot_line{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    font-size: 22px;
+    display: flex;
+    justify-content: center;
+    color: rgb(54, 54, 54);
+    margin-top: 30px;
+}
+
+.insta img{
+    height: 50px;
+}
+
+.github img{
+    height: 42px;
+    padding-top: 5px;
+}
+
+.linkedin img{
+    height: 45px;
+    padding-top: 3px;
+}
+
+.gmail img{
+    height: 44px;
+    padding-top: 3px;
+}
+
+.icons{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.foot_bottom{
+    background-color:rgb(221, 222, 255) ;
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+    height: 40px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.bottom_left{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.bottom_right{
+    margin-top: 10px;
+    margin-right: 20px;
+}
